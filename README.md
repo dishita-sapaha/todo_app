@@ -25,7 +25,7 @@ A simple Flask-based To-Do app that lets users add, edit, and delete tasks with 
 <img width="1556" height="590" alt="image" src="https://github.com/user-attachments/assets/208eeee8-84b3-4774-9b0d-144086564fb4" />
 
 3.Updating todos:
-<img width="703" height="460" alt="image" src="https://github.com/user-attachments/assets/bcbbe96a-fb6d-4fd9-9eb6-7510ca5f8ce9" />
+<img width="1488" height="759" alt="image" src="https://github.com/user-attachments/assets/6484a993-e364-4b0c-bfcb-d71964b2cc27" />
 
 🤝 Contributing
 
